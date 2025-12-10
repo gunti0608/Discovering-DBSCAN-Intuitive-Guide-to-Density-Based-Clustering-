@@ -1,7 +1,5 @@
 # Discovering-DBSCAN-Intuitive-Guide-to-Density-Based-Clustering-
 
-Here is a much simpler `README.md` matching your actual filenames and without a `requirements.txt`.
-
 ```markdown
 # Discovering DBSCAN: Intuitive Guide to Density‑Based Clustering
 
