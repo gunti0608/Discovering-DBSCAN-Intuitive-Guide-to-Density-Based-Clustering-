@@ -19,13 +19,18 @@ The project was created for a university assignment.
 ```
 .
 ─ README.md
+
 ─ LICENSE
+
 ─ data
 │   └─ Mall_Customers.csv
+
 ─ notebooks/
 │   └─ Unveiling DBSCAN: A Powerful Density-Based Clustering Technique.ipynb
+
 └─ report/
     └─ Discovering DBSCAN Intuitive Guide to Density-Based Clustering.pdf
+    
 ```
 
 - **Notebook**: full code (data loading, scaling, DBSCAN experiments, k‑distance plot, k‑means comparison, saving figures/CSVs).  
