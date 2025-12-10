@@ -18,15 +18,12 @@ The project was created for a university assignment.
 
 ```
 .
-├─ README.md
-├─ LICENSE
-│
-├─ data/
+─ README.md
+─ LICENSE
+─ data
 │   └─ Mall_Customers.csv
-│
-├─ notebooks/
+─ notebooks/
 │   └─ Unveiling DBSCAN: A Powerful Density-Based Clustering Technique.ipynb
-│
 └─ report/
     └─ Discovering DBSCAN Intuitive Guide to Density-Based Clustering.pdf
 ```
