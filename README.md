@@ -1,7 +1,5 @@
 # Discovering-DBSCAN-Intuitive-Guide-to-Density-Based-Clustering-
 
-# Discovering DBSCAN: Intuitive Guide to Density‑Based Clustering
-
 This repository contains a small machine‑learning project that explains the DBSCAN clustering algorithm using:
 
 - A synthetic 2D dataset (`make_circles`) for intuition.
