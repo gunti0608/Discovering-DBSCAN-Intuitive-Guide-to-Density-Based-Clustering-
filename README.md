@@ -74,7 +74,7 @@ DBSCAN finds several meaningful customer groups and marks unusual customers as n
 
    Use any Python environment with `numpy`, `pandas`, `matplotlib`, `seaborn`, and `scikit-learn` installed.
 
-   jupyter notebook "notebooks/Unveiling DBSCAN: A Powerful Density-Based Clustering Technique.ipynb"
+   jupyter notebook "Unveiling DBSCAN: A Powerful Density-Based Clustering Technique.ipynb"
 
    Run all cells from top to bottom. The notebook will regenerate the figures and CSV files in the `figures/` folder.
 
