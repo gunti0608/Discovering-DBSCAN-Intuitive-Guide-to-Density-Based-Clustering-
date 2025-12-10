@@ -15,7 +15,6 @@ The project was created for a university assignment.
 ## Repository structure
 
 ```
-.
 - README.md
 
 - LICENSE
