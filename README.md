@@ -22,14 +22,11 @@ The project was created for a university assignment.
 
 ─ LICENSE
 
-─ data
-│   └─ Mall_Customers.csv
+─  Mall_Customers.csv
 
-─ notebooks/
-│   └─ Unveiling DBSCAN: A Powerful Density-Based Clustering Technique.ipynb
+─ Unveiling DBSCAN: A Powerful Density-Based Clustering Technique.ipynb
 
-└─ report/
-    └─ Discovering DBSCAN Intuitive Guide to Density-Based Clustering.pdf
+- Discovering DBSCAN Intuitive Guide to Density-Based Clustering.pdf
     
 ```
 
