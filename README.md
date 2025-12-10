@@ -1,6 +1,5 @@
 # Discovering-DBSCAN-Intuitive-Guide-to-Density-Based-Clustering-
 
-```markdown
 # Discovering DBSCAN: Intuitive Guide to Density‑Based Clustering
 
 This repository contains a small machine‑learning project that explains the DBSCAN clustering algorithm using:
@@ -10,11 +9,9 @@ This repository contains a small machine‑learning project that explains the DB
 
 The project was created for a university assignment.
 
----
 
 ## Repository structure
 
-```
 - README.md
 
 - LICENSE
@@ -25,13 +22,11 @@ The project was created for a university assignment.
 
 - Discovering DBSCAN Intuitive Guide to Density-Based Clustering.pdf
     
-```
 
 - **Notebook**: full code (data loading, scaling, DBSCAN experiments, k‑distance plot, k‑means comparison, saving figures/CSVs).  
 - **Report**: short written tutorial for beginners.  
 - **data**: the Mall Customers CSV file from Kaggle.
 
----
 
 ## What the tutorial shows
 
@@ -57,37 +52,31 @@ The project was created for a university assignment.
 
 DBSCAN finds several meaningful customer groups and marks unusual customers as noise, while k‑means forces every customer into one of five clusters.
 
----
 
 ## How to run the notebook
 
 1. **Clone the repository**
 
-   ```
    git clone https://github.com/gunti0608/unveiling-dbscan-density-based-clustering.git
    cd unveiling-dbscan-density-based-clustering
-   ```
 
 2. **Make sure the dataset is present**
 
-   If `data/Mall_Customers.csv` is missing, download it from Kaggle:
+   If `Mall_Customers.csv` is missing, download it from Kaggle:
 
    - Dataset: *Mall Customer Segmentation Data* by `vjchoudhary7`  
      https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python
 
    Save the file as:
 
-   ```
-   data/Mall_Customers.csv
-   ```
+   Mall_Customers.csv
+  
 
 3. **Open the notebook**
 
    Use any Python environment with `numpy`, `pandas`, `matplotlib`, `seaborn`, and `scikit-learn` installed.
 
-   ```
    jupyter notebook "notebooks/Unveiling DBSCAN: A Powerful Density-Based Clustering Technique.ipynb"
-   ```
 
    Run all cells from top to bottom. The notebook will regenerate the figures and CSV files in the `figures/` folder.
 
